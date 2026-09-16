@@ -1,0 +1,2 @@
+# GenAI_Class_by_ImaiSyota
+生成AI特論の課題コード
